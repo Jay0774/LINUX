@@ -7,8 +7,8 @@
 ### adduser <account_name>
 
 ## To create a back up of all users 
-### 1. For windows use ###user folder.
-### 2. For linux use ###home folder (excluding root user).
+### 1. For windows use C:\user folder.
+### 2. For linux use /home folder (excluding root user).
 
 ## Default Security: Root/Admin user can view other users resources but other users cannot see the resources.
 
